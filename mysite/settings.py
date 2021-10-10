@@ -14,7 +14,7 @@ SECRET_KEY = 'em@m1+pu96vc!k8)$2q_)259mb^hv!0u7k%y%a+2@lamtwl&ge'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['messengerdictionarybot.herokuapp.com', ]
+ALLOWED_HOSTS = ['messenger-dictionary-bot-123.herokuapp.com', ]
 
 
 # Application definition
