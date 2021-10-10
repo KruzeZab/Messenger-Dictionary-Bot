@@ -105,17 +105,17 @@ def handlePayload(payload, text):
             "content_type":"text",
             "title":"Synonyms",
             "payload":"sy"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/synonyms.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/synonyms.png"
         },{
             "content_type":"text",
             "title":"Antonyms",
             "payload":"an"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/antonyms.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/antonyms.png"
         },{
             "content_type":"text",
             "title":"Examples",
             "payload":"ex"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/examples.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/examples.png"
         }
         ]
         
@@ -142,17 +142,17 @@ def handleMessage(text=''):
             "content_type":"text",
             "title":"Synonyms",
             "payload":"sy"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/synonyms.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/synonyms.png"
         },{
             "content_type":"text",
             "title":"Antonyms",
             "payload":"an"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/antonyms.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/antonyms.png"
         },{
             "content_type":"text",
             "title":"Examples",
             "payload":"ex"+text,
-            "image_url":"https://messengerdictionarybot.herokuapp.com/static/img/examples.png"
+            "image_url":"https://messenger-dictionary-bot-123.herokuapp.com/static/img/examples.png"
         }
         ]
         }
